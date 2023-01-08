@@ -1,0 +1,19 @@
+id: AAAA6446C
+title: Prayer to Akṣobhya
+type: translation
+pechas:
+- I5B7C72BF
+- IE5708E79
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:10:06.705171
+  last_modified_at: 2023-01-04 13:10:06.705179
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I5B7C72BF/D4ED: '6903'
+  IE5708E79/5ABF: '6903'
